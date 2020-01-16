@@ -14,3 +14,6 @@
 .sub-header p {
 	float: left
 }
+.content {
+	background-color: blue
+}
