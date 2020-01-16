@@ -1,3 +1,16 @@
 #header{
 	background-color: lightblue
 }
+
+.sub-header ul {
+	list-style-type: none;
+}
+.sub-header li{
+	float: right;
+	width: 100px;
+	padding-top: 10px;
+
+}
+.sub-header p {
+	float: left
+}
